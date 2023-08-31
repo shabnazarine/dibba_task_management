@@ -1,0 +1,77 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:1644221422462110333",
+      "lastPropertyId": "10:6521087806392229244",
+      "name": "User",
+      "properties": [
+        {
+          "id": "1:1893318165428291917",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1800619964793994314",
+          "name": "firstName",
+          "type": 9
+        },
+        {
+          "id": "3:7761752331421636357",
+          "name": "lastName",
+          "type": 9
+        },
+        {
+          "id": "4:6095766447170403064",
+          "name": "designation",
+          "type": 9
+        },
+        {
+          "id": "5:7782659111418213394",
+          "name": "department",
+          "type": 9
+        },
+        {
+          "id": "6:6917096914959744827",
+          "name": "email",
+          "type": 9
+        },
+        {
+          "id": "7:86488974724760308",
+          "name": "userName",
+          "type": 9
+        },
+        {
+          "id": "8:2932595734907404504",
+          "name": "password",
+          "type": 9
+        },
+        {
+          "id": "9:2900146199003182146",
+          "name": "phoneNumber",
+          "type": 6
+        },
+        {
+          "id": "10:6521087806392229244",
+          "name": "photoPath",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:1644221422462110333",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
